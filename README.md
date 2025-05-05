@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajid Ali</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasannadeem" alt="hasannadeem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajidali36" alt="sajidali36" /> </p>
 
 - 🔭 I’m currently working as a Freelance Full-Stack Software Engineer.
 
